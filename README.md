@@ -2,7 +2,7 @@
 
 | Task                  | Tags              | Link                                                     | Source                                                       |
 | --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
-| custom nn modules | numpy, scipy, back-prop | [here](https://github.com/voorhs/dl-practice/tree/main/numpy-nn) | University assignment |
+| custom nn modules | numpy, scipy, back-prop | [here](https://github.com/voorhs/dl-practice/tree/main/numpy-nn) | [University assignment](https://github.com/mmp-practicum-team/mmp_practicum_spring_2023/blob/main/Tasks/Task%2001/task_01.ipynb) |
 | image classification | MLP, custom CNNs | [here](https://github.com/voorhs/dl-practice/tree/main/image-classification-mnist-cifar) | —                                                            |
 | image segmentation | UNet, advanced logging | [here](https://github.com/voorhs/dl-practice/tree/main/image-segmentation) | [University assignment](https://github.com/mmp-practicum-team/mmp_practicum_spring_2023/blob/main/Tasks/Task%2002/task_02.ipynb) |
 | text classification & language modeling | LSTM, various dropout techniques | [here](https://github.com/voorhs/dl-practice/tree/main/rnn-text-classification-language-modeling) | [University assignment](https://github.com/mmp-practicum-team/mmp_practicum_spring_2023/blob/main/Tasks/Task%2003/task_03.ipynb) |
