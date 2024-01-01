@@ -1,0 +1,1 @@
+Ссылка на Weights & Biases report: https://wandb.ai/ilya_alekseev_2016/timy-imgnet-clf/reports/ML3-AIM-2023-HW2--Vmlldzo1ODEzMTA5
