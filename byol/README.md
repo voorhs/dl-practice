@@ -5,7 +5,7 @@
 - compute BYOL loss:
 
 ```math
-\mathcal{L}=2-2{\cdot(q_\theta(z), z')}
+\mathcal{L}=2-2{\cos(q_\theta(z), z')}
 ```
 
 where $z$ and $z'$ are two augmentations of the same image.
