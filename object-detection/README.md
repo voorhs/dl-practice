@@ -12,6 +12,7 @@ This is a study object-detection project on implementing SSD ([Liu et al., 2015]
     - второй классификатор предсказывает поправки к априорным параметрам box'а 
 
 Визуализация части таких априорных боксов:
+
 ![](figures/prior-boxes.png)
 
 На этапе обучения, полученные предсказания (которых очень много, т.к. априорных box'ов много) матчатся с теми истинными box'ами, с которыми они перескаются больше всего и с которыми мера IoU больше установленного порога. Иначе назначается нулевой класс "фон". Для каждого априорного бокса, для которого нашелся таргет бокс, считается localization loss, и для всех боксов считается classification loss. Подробнее в `src/loss.py`.
@@ -21,9 +22,11 @@ This is a study object-detection project on implementing SSD ([Liu et al., 2015]
 Подробнее в `src/learner.py`.
 
 **Data.** 5563 train samples and 272 validation samples. Example:
+
 ![](figures/data-sample.png)
 
 **VGG.** Undertrained VGG model results:
+
 ![](figures/vgg.png)
 
 **Resnet18.** Как я собирал модель.
