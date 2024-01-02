@@ -15,4 +15,4 @@
 | optical character recognition | CNN, RNN, CTC loss | [here](https://github.com/voorhs/dl-practice/tree/main/crnn-text-recognition) | AIMasters DL course |
 | optical character recognition | CNN, seq2seq Transformer, greedy decoding | [here](https://github.com/voorhs/dl-practice/tree/main/transformer-text-recognition) | AIMasters DL course |
 | visual question answering | CLIP | [here](https://github.com/voorhs/dl-practice/tree/main/vqa) | Qualifying stage of [competition](https://yandex.ru/profi/) |
-| text clustering | YouTube Data API, KMeans, MPNet | [here](https://github.com/voorhs/dl-practice/tree/main/youtube-comments) | [very popular content maker](https://www.youtube.com/c/SonixFan) |
+| text clustering | YouTube Data API, KMeans, MPNet | [here](https://github.com/voorhs/dl-practice/tree/main/youtube-comments) | [popular content maker](https://www.youtube.com/c/SonixFan) |
